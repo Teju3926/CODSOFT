@@ -15,7 +15,7 @@ class Grade {
                     marks[i] = mark;
                     break;
                 } else {
-                    System.out.println("Invalid input. Marks should be between 0 and 100. Please try again.");
+                    System.out.println("Invalid input.Marks should be between 0 and 100.");
                 }
             }
         }
