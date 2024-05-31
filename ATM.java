@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 class Account {
     int balance;
     int minbal = 1000;
