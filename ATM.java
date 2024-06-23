@@ -61,7 +61,7 @@ class ATM {
             System.out.println("2 to withdraw");
             System.out.println("3 to display balance");
             System.out.println("0 to exit");
-            System.out.print("Enter your choice from 0-4: ");
+            System.out.print("Enter your choice from 0-3: ");
             int choice = sc.nextInt();
 
             switch (choice) {
